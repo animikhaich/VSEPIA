@@ -4,7 +4,8 @@ A GUI has been developed that helps vendors and farmers to keep track of their c
 This is a single unit which has been implemented. However, this can easily and effectively be scaled to over multiple units which will be connected to a central server (wireless) that will show the summary of every crop, and cost estimate. etc.
 
 ## Screenshots of the GUI App:
-![screenshot 65 635](https://user-images.githubusercontent.com/16799596/42185187-974661e8-7e65-11e8-8db7-1f41bbb1fd5d.png) ![screenshot 66 636](https://user-images.githubusercontent.com/16799596/42185188-97b20826-7e65-11e8-91fd-02b6f7270e4f.png)
+![screenshot 65 635](https://user-images.githubusercontent.com/16799596/42185187-974661e8-7e65-11e8-8db7-1f41bbb1fd5d.png)
+![screenshot 66 636](https://user-images.githubusercontent.com/16799596/42185188-97b20826-7e65-11e8-91fd-02b6f7270e4f.png)
 
 ## Dependencies:
   1. Python 3
